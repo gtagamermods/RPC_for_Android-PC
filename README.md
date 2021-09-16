@@ -41,6 +41,6 @@ After adding image click save changes and note: This is for image you can't use 
 Then go to config.json file and fill the required Things More info there.
 
 ## Support Server 😀
-[Click Me](https://dsc.gg/rlx) if you need any help or support us.
+[Click Me](https://discord.gg/gkHS46TJjn) if you need any help or support us.
 
 ### Thanks ❤️
