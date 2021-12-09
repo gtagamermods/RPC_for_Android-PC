@@ -1,9 +1,9 @@
 {  
-        "applicationid": "YOUR APPLICATION ID HERE",
-        "type": "TYPE LIKE PLAYING, WATCHING, STREAMING, LISTENING",
-        "name": "NAME THIS WILL BE THE HEADING",
-        "details": "DESCRIPTION HERE",
-        "state": "",
-        "imagesmall": "SMALL IMAGE HERE",
-        "imagename":"LARGE EMAIL HERE"
+        "applicationid": "781204185613205554",
+        "type": "PLAYING",
+        "name": "BeatBox",
+        "details": "Working on v13",
+        "state": "400+ Commands",
+        "imagesmall": "images_3_",
+        "imagename":"images_5_"
 }
